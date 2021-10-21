@@ -1,16 +1,15 @@
 h1 {
-    color: orange;
+    color: #FF8F00;
     size: 30px;
     font-weight: bold;
 }
 p {
-    color: blue;
+    color:#0900FF;
     size: 16px;
     font-weight: normal;
 }
 h2 {
-    color: green;
+    color: #26FF00;
     size: 25px;
     font-weight: 600;
-    
 }
